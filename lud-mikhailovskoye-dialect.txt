@@ -1,4 +1,4 @@
-# Ludian Karelian: Mikhailovskoye dialect
+# Ludian: Mikhailovskoye
 mečče	mecanke	N;COM;SG
 mečče	mecale	N;AT+ALL;SG
 mečče	mecalpäi	N;AT+ABL;SG
