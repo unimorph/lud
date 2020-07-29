@@ -19,7 +19,7 @@ Source: [VepKar](http://dictorpus.krc.karelia.ru/en)
 ## Shared Tasks
 
 2020: [Typologically Diverse Morphological Inflection](https://www.aclweb.org/anthology/2020.sigmorphon-1.1/)
-(all dialects were merged into a single "veps")
+(all dialects were merged into a single "lud")
 
 ## License: 
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
