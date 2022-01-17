@@ -16,6 +16,8 @@ Norja	Norja	PROPN;NOM;SG
 Norja	Norja	PROPN;ACC;SG
 Pyhädärvi	Pyhädärvi	PROPN;NOM;SG
 Pyhädärvi	Pyhädärvi	PROPN;ACC;SG
+Riga	Riga	PROPN;NOM;SG
+Riga	Riga	PROPN;ACC;SG
 Ruočči	Ruočči	PROPN;NOM;SG
 Ruočči	Ruočči	PROPN;ACC;SG
 Saksa	Saksa	PROPN;NOM;SG
@@ -33,6 +35,8 @@ Vaugedven’a	Vaugedven’a	PROPN;ACC;SG
 Vašakke	Vašakke	PROPN;NOM;SG
 Ven’a	Ven’a	PROPN;NOM;SG
 Ven’a	Ven’a	PROPN;ACC;SG
+VepKar - korpus	VepKar - korpus	N;NOM;SG
+VepKar - korpus	VepKar - korpus	N;ACC;SG
 Viro	Viro	PROPN;NOM;SG
 Viro	Viro	PROPN;ACC;SG
 abei	abei	N;NOM;SG
@@ -1224,6 +1228,8 @@ kengänombelii	kengänombelii	N;NOM;SG
 kengänombelii	kengänombelii	N;ACC;SG
 kengätombelii	kengätombelii	N;NOM;SG
 kengätombelii	kengätombelii	N;ACC;SG
+kentahto	kentahto	PRO;NOM;SG
+kentahto	kentahto	PRO;ACC;SG
 kerd	kerdal	N;AT+ESS;SG
 kerd	kerdan	N;FRML;SG
 kerd	kerd	N;NOM;SG
@@ -2182,6 +2188,8 @@ mieletyöi	mieletyöi	ADJ;NOM;SG
 mieletyöi	mieletyöi	ADJ;ACC;SG
 mieli	mieli	N;NOM;SG
 mieli	mieli	N;ACC;SG
+mieli	mieli	N;NOM;SG
+mieli	mieli	N;ACC;SG
 mielöu	mielöu	ADJ;NOM;SG
 mielöu	mielöu	ADJ;ACC;SG
 miel’	miel’	N;NOM;SG
@@ -2199,12 +2207,12 @@ miituine	miituine	ADJ;NOM;SG
 miituine	miituine	ADJ;ACC;SG
 mikse	mikse	PRO;NOM;SG
 mikse	mikse	PRO;ACC;SG
+mikš	mikš	PRO;NOM;SG
+mikš	mikš	PRO;ACC;SG
 mina	mina	PRO;NOM;SG
 mina	mina	PRO;ACC;SG
 mindali	mindali	N;NOM;SG
 mindali	mindali	N;ACC;SG
-minun	minun	PRO;NOM;SG
-minun	minun	PRO;ACC;SG
 minut	minut	N;NOM;SG
 minut	minut	N;ACC;SG
 minä	minun	PRO;GEN;SG
@@ -2629,8 +2637,8 @@ oma	oma	PRO;ACC;SG
 oma	oma	ADJ;NOM;SG
 oma	oma	ADJ;ACC;SG
 oma	omas	ADJ;IN+ESS;SG
-omad	omad	N;NOM;SG
-omad	omad	N;ACC;SG
+omad	omad	N;PRT;SG
+omad	oma	N;NOM;SG
 omahiine	omahiine	N;NOM;SG
 omahiine	omahiine	N;ACC;SG
 ombelmas	ombelmas	N;NOM;SG
@@ -3628,6 +3636,8 @@ stantsii	stantsii	N;NOM;SG
 stantsii	stantsii	N;ACC;SG
 starikke	starikke	N;NOM;SG
 starikke	starikke	N;ACC;SG
+starin	starin	N;NOM;SG
+starin	starin	N;ACC;SG
 staruuha	staruuha	N;NOM;SG
 staruuha	staruuha	N;ACC;SG
 staršin	staršin	N;NOM;SG
@@ -4004,6 +4014,8 @@ tuačke	tuačke	N;NOM;SG
 tuačke	tuačke	N;ACC;SG
 tuhke	tuhke	N;NOM;SG
 tuhke	tuhke	N;ACC;SG
+tuhmašči	tuhmašči	N;NOM;SG
+tuhmašči	tuhmašči	N;ACC;SG
 tuhukuu	tuhukuu	N;NOM;SG
 tuhukuu	tuhukuu	N;ACC;SG
 tukkad	tukkad	N;NOM;SG
@@ -4692,6 +4704,8 @@ zvonke	zvonke	N;ACC;SG
 čumučiučuoi	čumučiučuoi	N;ACC;SG
 čunkad	čunkad	N;NOM;PL
 čunkad	čunkad	N;ACC;PL
+čuppu	čuppu	N;NOM;SG
+čuppu	čuppu	N;ACC;SG
 čuppu	čuppu	N;NOM;SG
 čuppu	čuppu	N;ACC;SG
 čupukke	čupukke	N;NOM;SG

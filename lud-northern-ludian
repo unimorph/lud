@@ -633,6 +633,8 @@ ken	ken	PRO;NOM;SG
 ken	ken	PRO;ACC;SG
 ken	kedä	PRO;PRT;SG
 ken	kel	PRO;AT+ESS;SG
+kentahto	kentahto	PRO;NOM;SG
+kentahto	kentahto	PRO;ACC;SG
 keppi	keppi	N;NOM;SG
 keppi	keppi	N;ACC;SG
 kerda	kerda	N;NOM;SG
@@ -786,6 +788,8 @@ kondie	kondie	N;NOM;SG
 kondie	kondie	N;ACC;SG
 kondu	kondu	N;NOM;SG
 kondu	kondu	N;ACC;SG
+konztahto	konztahto	PRO;NOM;SG
+konztahto	konztahto	PRO;ACC;SG
 kopata	kopata	V;NFIN
 kopeikka	kopeikka	N;NOM;SG
 kopeikka	kopeikka	N;ACC;SG
@@ -838,12 +842,20 @@ kubineh	kubineh	N;NOM;SG
 kubineh	kubineh	N;ACC;SG
 kubo	kubo	N;NOM;SG
 kubo	kubo	N;ACC;SG
+kudakui	kudakui	PRO;NOM;SG
+kudakui	kudakui	PRO;ACC;SG
+kudamida	kudamida	PRO;NOM;SG
+kudamida	kudamida	PRO;ACC;SG
 kude	kude	N;NOM;SG
 kude	kude	N;ACC;SG
 kudrit	kudrit	N;NOM;SG
 kudrit	kudrit	N;ACC;SG
 kuduo	kuduo	V;NFIN
 kuduo	kuduo	V;NFIN
+kugal	kugal	PRO;NOM;SG
+kugal	kugal	PRO;ACC;SG
+kugaltahto	kugaltahto	PRO;NOM;SG
+kugaltahto	kugaltahto	PRO;ACC;SG
 kuha	kuha	N;NOM;SG
 kuha	kuha	N;ACC;SG
 kuhilas	kuhilas	N;NOM;SG
@@ -880,6 +892,8 @@ kumardua	kumardua	V;NFIN
 kumata	kumata	V;NFIN
 kuničča	kuničča	N;NOM;SG
 kuničča	kuničča	N;ACC;SG
+kunnetahto	kunnetahto	PRO;NOM;SG
+kunnetahto	kunnetahto	PRO;ACC;SG
 kunnivo	kunnivo	N;NOM;SG
 kunnivo	kunnivo	N;ACC;SG
 kuokka	kuokka	N;NOM;SG
@@ -1242,6 +1256,8 @@ mielevä	mielevä	ADJ;NOM;SG
 mielevä	mielevä	ADJ;ACC;SG
 mies	mies	N;NOM;SG
 mies	mies	N;ACC;SG
+mikš	mikš	PRO;NOM;SG
+mikš	mikš	PRO;ACC;SG
 mimmoine	mimmoine	PRO;NOM;SG
 mimmoine	mimmoine	PRO;ACC;SG
 mitata	mitata	V;NFIN
